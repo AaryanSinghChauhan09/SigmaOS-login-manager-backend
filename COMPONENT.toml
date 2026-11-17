@@ -3,7 +3,7 @@ name = "SigmaOS-login-manager-backend"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "login-manager-backend component"
+description = "login manager backend"
 upstream = []
 
 [contract]
